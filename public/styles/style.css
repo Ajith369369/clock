@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+  overflow: hidden;
+}
+
+body > div.row > div.col-md-10.d-flex.justify-content-center.align-items-center {
+  height: 100vh;
+}
+
+#result {
+  font-size: 108px;
+  font-weight: 800;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+}
